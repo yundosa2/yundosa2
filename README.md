@@ -1,8 +1,10 @@
-<h1 align="center"> YoonSangJoon
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoonSangJoon&fontSize=70&animation=twinkling)
 
-<p align="center">Front End Developer</center>
+<p align="center">🇰🇷</p>
 
-<h3 align="center">🛠 Technology Stack 🛠</h3>
+<h4 align="center">👨‍💻 Front End Developer 👨‍💻</center>
+
+<h3 align="center">🧰 Technology Stack 🧰</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-red"/>
   <img src="https://img.shields.io/badge/-CSS-blue"/>
