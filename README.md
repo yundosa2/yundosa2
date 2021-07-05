@@ -3,10 +3,10 @@
 <p align="center">Front End Developer</center>
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
-  <img src="https://img.shields.io/badge/-HTML-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-PythonT-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-red"/>
+  <img src="https://img.shields.io/badge/-CSS-blue"/>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+  <img src="https://img.shields.io/badge/-PythonT-blue"/>
 
 <p align="center">
   <a href="https://velog.io/@arthur"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@arthur"/></a>&nbsp
