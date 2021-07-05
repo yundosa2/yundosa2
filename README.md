@@ -2,7 +2,7 @@
 
 <p align="center">Front End Developer</center>
 
-<p align="center">Tech Stack
+<h3 align="center">🛠 Technology Stack 🛠</h3>
   <img src="https://img.shields.io/badge/-HTML-red"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
