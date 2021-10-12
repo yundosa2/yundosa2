@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-CSS-blue"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
   <img src="https://img.shields.io/badge/-Python-blue"/>
-  <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react'/>
+  <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge'/>
 </p>
 
 <p align="center">
