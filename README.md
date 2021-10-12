@@ -6,11 +6,11 @@
 
 <h3 align="center">🧰 Technology Stack 🧰</h3>
 <p align="center">
-  <img src='https://img.shields.io/badge/-HTML-D35936?logo=HTML5&logoColor=white&style=plastic'/>
-  <img src='https://img.shields.io/badge/-CSS-3372B1?logo=CSS3&logoColor=white&style=plastic'/>
-  <img src='https://img.shields.io/badge/-JavaScript-F3DF51?logo=javascript&logoColor=white&style=plastic'/>
-  <img src='https://img.shields.io/badge/-Python-4675A6?logo=python&logoColor=white&style=plastic'/>
-  <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic'/>
+  <img src='https://img.shields.io/badge/-HTML-D35936?logo=HTML5&logoColor=white&style=flat'/>
+  <img src='https://img.shields.io/badge/-CSS-3372B1?logo=CSS3&logoColor=white&style=flat'/>
+  <img src='https://img.shields.io/badge/-JavaScript-F3DF51?logo=javascript&logoColor=white&style=flat'/>
+  <img src='https://img.shields.io/badge/-Python-4675A6?logo=python&logoColor=white&style=flat'/>
+  <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat'/>
 </p>
 
 <p align="center">
