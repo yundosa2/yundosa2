@@ -2,7 +2,7 @@
 
 <p align="center">🇰🇷</p>
 
-<h4 align="center">👨‍💻 Front End Developer 👨‍💻 (Not Yet😅)</center>
+<h4 align="center">👨‍💻 Web Front End Engineer 👨‍💻 (Not Yet😅)</center>
 
 <h3 align="center">🧰 Technology Stack 🧰</h3>
 <p align="center">
