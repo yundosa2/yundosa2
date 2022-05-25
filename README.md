@@ -1,22 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoonSangJoon&fontSize=70&animation=twinkling)
+<div align="center">
 
-<p align="center">🇰🇷</p>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=highJoon&fontAlign=70&rotate=13&fontAlignY=25&&descAlign=70.&descAlignY=44)
 
-<h4 align="center">👨‍💻 Web Front End Engineer 👨‍💻 (Not Yet😅)</center>
+<h2>🇰🇷 FrontEnd</h2>
 
-<h3 align="center">🧰 Technology Stack 🧰</h3>
-<p align="center">
-  <img src='https://img.shields.io/badge/-HTML-D35936?logo=HTML5&logoColor=white&style=flat'/>
-  <img src='https://img.shields.io/badge/-CSS-3372B1?logo=CSS3&logoColor=white&style=flat'/>
-  <img src='https://img.shields.io/badge/-JavaScript-F3DF51?logo=javascript&logoColor=white&style=flat'/>
-  <img src='https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat'/>
-  <img src='https://img.shields.io/badge/-Python-4675A6?logo=python&logoColor=white&style=flat'/>
-  <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat'/>
-</p>
+<div>
+  <h2>🧰 Tech Stack 🧰</h2>
+  <div>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F3DF51?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />
+  </div>
 
-<p align="center">
-  <a href="https://velog.io/@arthur"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@arthur"/></a>&nbsp
-</p>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23000000&title_bg=%239BA1FF&icon=&icon_color=%23C4C2E9&title=hits&edge_flat=true"/></a>
-</p>
+  <div>
+    <a href="https://velog.io/@arthur">    
+      <img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white" />
+    </a>
+  </div>
+  <br />
+  <div>
+    <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23000000&title_bg=%239BA1FF&icon=&icon_color=%23C4C2E9&title=hits&edge_flat=true"/>
+    </a>
+  </div>
+</div>
+<br />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=highjoon">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yundosa2">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highjoon">
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+</div>
