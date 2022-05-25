@@ -26,10 +26,10 @@
 </div>
 <br />
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=highjoon">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yundosa2">
+  <img src="https://github-readme-stats.vercel.app/api?username=highjoon" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yundosa2" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highjoon">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highjoon" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
