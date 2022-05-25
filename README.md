@@ -26,11 +26,11 @@
 </div>
 <br />
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=highjoon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=highjoon&theme=dark" />
   <br />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yundosa2" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highjoon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highjoon&theme=dark" />
   <br />
 </div>
 
